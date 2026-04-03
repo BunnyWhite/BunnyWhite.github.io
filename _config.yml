@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: PSTDA@ADMA 2026
-email: pstda2025@gmail.com
+email: pstda2026@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    Special Session on Private, Secure, and Trust Data Analytics (PSTDA) @ADMA 2026
 baseurl: "" # the subpath of your site, e.g. /blog
