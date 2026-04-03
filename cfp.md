@@ -6,15 +6,17 @@ permalink: /cfp/
 
 # **Special Session Aims and Scope**
 
-<div style="text-align: justify"> The fusion of scalable computing infrastructure, big data, and artificial intelligence has boosted the development and application of data science and advanced data analytics. However, the recently emerging threats on the privacy, security, and trust (PST) of the data and the analytics models have shown a dramatically increasing trend with the wide deployment of data analytics applications. Specifically, the PST attacks on data or models such as model inversion attacks, membership inference attacks, data poisoning attacks, evasion attacks, and model backdoors, have severely made advanced data analytics highly vulnerable, particularly in common scenarios where data are distributed or computation is outsourced like MLaaS (Machine Learning as a Service). On the other hand, defence solutions are proposed as new computing schemes, PST frameworks, algorithms, and methods. For example, differential privacy, federated learning, and machine unlearning are proposed for privacy protection in data analytics, and adversarial machine learning is proposed to achieve robust, secure, and trustworthy data analytics. Given the importance and urgency, this special issue aims to provide a venue for researchers, practitioners and developers from different background areas relevant to PST and data analytics to exchange their latest experience, research ideas, and synergic research and development on fundamental issues and applications about privacy, security, and trust issues in data analytics, as a strong supplement to the main track of data science and advanced analytics. </div> 
+<div style="text-align: justify"> The fusion of scalable computing infrastructure, big data, and artificial intelligence (including large language models and multi-agent systems) has boosted the development and application of data science and advanced data analytics. However, emerging threats to the private, secure, and trustworthy (PST) data and analytics models have risen dramatically with the widespread deployment of data analytics applications. Specifically, PST attacks targeting data or models, such as model inversion attacks, membership inference attacks, data poisoning attacks, evasion attacks, and model backdoors, have rendered advanced data analytics highly vulnerable, particularly in distributed, outsourced scenarios like MLaaS (Machine Learning as a Service) and multi-agent collaborative workflows. On the other hand, defense solutions have emerged as novel computing schemes, PST frameworks, algorithms, and methods. For example, differential privacy, federated learning, and machine unlearning are proposed for privacy
+protection in data analytics, while adversarial machine learning is developed to enable robust, secure, and trustworthy data analytics. Given the critical importance and urgency, this special session aims to provide a venue for researchers, practitioners, and developers from diverse backgrounds relevant to PST and data analytics to exchange their latest findings, research ideas, and collaborative work on fundamental issues and applications of PST in data analytics, as a strong complement to the mainstream of data science and advanced analytics. </div> 
 
 <br/>
 
-<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc.</div>
+<div style="text-align: justify"> This special session mainly focuses on privacy, security, and trust challenges in data analytics, covering (but not limited to) the following topics: privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, large language model and multi-agent security, secure machine learning integrating cryptographic techniques, IoT data security, blockchain techniques for data and model PST protection, etc. This special session invites authors to submit original research work that demonstrates and explores cutting-edge advances across all the aforementioned related areas.
+</div>
 
 <br/>
 
-<div style="text-align: justify"> Accepted research papers will be included in the ADMA 2025 proceedings.</div>
+<div style="text-align: justify"> Accepted research papers will be included in the ADMA 2026 proceedings.</div>
 
 <br/>
 
@@ -24,22 +26,18 @@ permalink: /cfp/
 
 <br/>
 
-- New privacy, security and trust opportunities and challenges in data analytics
-- Novel theories and modelling for privacy, security, and trust in data analytics
+- Novel theories and modelling for private, secure, and trustworthy data analytics
+- New private, secure, and trustworthy opportunities and challenges in data analytics
 - Private, secure, and trust deep learning for data analytics
 - Privacy-preserving data mining and machine learning
 - Federated/collaborative learning
-- Machine unlearning
-- Adversarial machine learning for robust data analytics
-- Transfer learning for private, secure, and trust data analytics
-- Data poisoning and model evasion attacks and defences
-- Cryptographic techniques based private, secure, and trust data analytics
-- Privacy, security, and trust management for data analytics
-- Emerging approaches and strategies for the security analysis of IoT devices
+- Machine unlearning, data desensitization and privacy compliance technologies for LLMs
+- Attacks and defenses for LLM/multi-agent enabled data analytics
+- Cryptographic techniques-based private, secure, and trustworthy data analytics
 - Blockchain for privacy, security, and trust in data analytics
-- Real-world applications for private, secure and trust data analytics
-- Generative AI, including LLMs, for private, secure and trust data analytics
-- Privacy, security and privacy issues, trends, and challenges in data analytics
+- Emerging approaches and strategies for the security analysis of IoT devices
+- Generative AI, including LLMs, for private, secure and trustworthy data analytics
+- Real-world industry applications of private, secure and trustworthy data analytics empowered by LLMs and multi-agent systems
 
 <br/>
 
