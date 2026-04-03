@@ -31,7 +31,6 @@ permalink: /organization/
 
 ### **Web Chairs**
 - Yifan Zhu, Beijing University of Posts and Telecommunications, China
-- 
 
 <!-- |<font size=5>**General Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
