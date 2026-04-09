@@ -10,7 +10,7 @@ permalink: /
 ---
 <!-- ![banner image](shenzhen.jpeg) -->
 <p align="center">
-	<img src="figures/banner.jpg" width="750">
+	<img src="figures/banner.png" width="750">
 </p>
 
 <br/>
