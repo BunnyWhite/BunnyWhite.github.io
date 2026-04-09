@@ -46,30 +46,30 @@ protection in data analytics, while adversarial machine learning is developed to
 <div style="text-align: justify">  The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. </div>
 
 **Submission Site:** 
-[https://cmt3.research.microsoft.com/ADMA2025](https://cmt3.research.microsoft.com/ADMA2025)
-
+[https://cmt3.research.microsoft.com/ADMA2026]
+(https://cmt3.research.microsoft.com/ADMA2026)
 <!-- - Step 1: Login and enter ADMA conference in EasyChair. Website: [https://easychair.org/conferences/?conf=ADMA2023](https://easychair.org/conferences/?conf=ADMA2023)
 - Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "Special Session: Private, Secure, and Trust Data Analytics" to continue.
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form. -->
 
 **Formatting Guidelines:**
-1. <div style="text-align: justify"> The paper should be in English and contain unpublished contributions to the data mining and related fields.</div>
+1. <div style="text-align: justify"> The paper should be in English and contain unpublished contributions to data mining and related fields.</div>
 
-2. <div style="text-align: justify"> Manuscripts must be prepared in accordance with the LNAI (Lecture Notes in Artificial Intelligence) format. For the template and details on the LNCS style, see Springer's Author Instructions.</div>
+2. <div style="text-align: justify"> Manuscripts must be prepared in accordance with the LNAI (Lecture Notes in Artificial Intelligence) format. For the template and details on the LNCS style, see Springer's Author Instructions</div>
 
 3. <div style="text-align: justify">The paper should NOT exceed 15 pages in LNAI format.</div>
 
-4. <div style="text-align: justify">Submissions are reviewed in a double-blind manner. For ADMA2025, the double-blind means that:</div>
+4. <div style="text-align: justify">Submissions are reviewed in a double-blind manner. i.e.</div>
 
     <div style="text-align: justify"> a. Author identities and affiliations are not disclosed to reviewers during the review process.</div>
 
-    <div style="text-align: justify"> b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements to this end are detailed below.</div>
+    <div style="text-align: justify"> b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.</div>
 
     <div style="text-align: justify"> c. Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.</div>
 
 5. <div style="text-align: justify">The list of authors at the time of submission is final and cannot be changed.</div>
 
-6. <div style="text-align: justify">"Submitted papers" must comply with all of the rules below. Any violation may result in an "desk reject".</div>
+6. <div style="text-align: justify">Submitted papers must comply with all of the rules below. Any violation may result in a "desk reject".</div>
 <!-- - <div style="text-align: justify"> The length of each paper submitted should be no more than 10 pages, and formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Proceedings Author Guidelines</a> for further information and instructions.</div>
 - <div style="text-align: justify"> All submissions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.</div>
 - <div style="text-align: justify"> Authors are also encouraged to submit supplementary materials, i.e., providing the source code and data through a GitHub-like public repository to support the reproducibility of their research results.</div> -->
@@ -79,7 +79,7 @@ protection in data analytics, while adversarial machine learning is developed to
 
 <br/> -->
 **Manuscript Preparation:**
-1. <div style="text-align: justify"> Authors must submit PDFs without author names and affiliations. Submitted PDFs must also not contain any metadata that could reveal author identities or affiliations.</div>
+1. <div style="text-align: justify"> Authors must submit PDFs without author names and affiliations. Submitted PDFs must also delete any metadata that could reveal author identities or affiliations.</div>
 
 2. <div style="text-align: justify"> Authors should aim to avoid copy&pasting substantial amounts of text from their own prior publications, as such text blocks may be readily recognized by experts familiar with the state of the art and recent papers in the area.</div>
 
@@ -87,15 +87,10 @@ protection in data analytics, while adversarial machine learning is developed to
 
 4. <div style="text-align: justify"> Authors must refrain from using any specific formatting tricks, linguistic mannerisms, figure styles, or other stylistic idioms that could hint at or disclose the author identity or affiliation.</div>
 
-5. <div style="text-align: justify"> Submitted papers should not include an acknowledgements section or funding acknowledgements (even when blinded) since it can indicate the country of residence of (some of) the authors. (Such acknowledgements of course may be added to the camera-ready version.)</div>
+5. <div style="text-align: justify"> Submitted papers should not include an acknowledgements section or funding acknowledgements (even when blinded), since it can indicate the country of residence of (some of) the authors. (Such acknowledgements of course may be added to the camera-ready version.)</div>
 
-6. <div style="text-align: justify"> Authors who seek to refer to an online appendix or to supplemental materials (e.g., source code, videos, etc.) may still do so. However, instead of directly providing a URL or tech report number, authors should include a note that the appendices and/or supplemental materials in question are available from the track chair upon request.</div>
+6. <div style="text-align: justify"> It is imperative to acknowledge the contributions of AI models in the generation of textual content. Authors utilizing AI-generated text in their manuscripts are required to assume full responsibility for the accuracy, integrity, and originality of the material presented. Furthermore, any section of the paper employing AI-generated text should include clear documentation and description of the AI system utilized. This transparency ensures that readers can discern between human-authored content and text generated by AI, fostering a culture of accountability and integrity within the scholarly community.</div>
 
-    <div style="text-align: justify"> a. Authors must provide all supplemental materials and/or appendices that a submission refers to in blinded form and sent them to the PC chair by email (or other approaches appointed by the PC chair) before the submission deadline.</div>
-
-    <div style="text-align: justify"> b. The track chair will retain a copy of all submitted materials for the duration of the reviewing process. Any such provided appendices or supplemental materials are not subject to review and may be consulted by the reviewers at their own discretion.</div>
-
-7. <div style="text-align: justify"> It is imperative to acknowledge the contributions of AI models in the generation of textual content. Authors utilizing AI-generated text in their manuscripts are required to assume full responsibility for the accuracy, integrity, and originality of the material presented. Furthermore, any section of the paper employing AI-generated text should include clear documentation and description of the AI system utilized. This transparency ensures that readers can discern between human-authored content and text generated by AI, fostering a culture of accountability and integrity within the scholarly community.</div>
 <!-- - <div style="text-align: justify"> All accepted full-length special session papers will be published by IEEE in the ADMA main conference proceedings under its Special Session scheme. All papers will be submitted for inclusion in the IEEEXplore Digital Library. The conference proceedings will be submitted for EI indexing through INSPEC by IEEE.</div> -->
 
 <!-- 
