@@ -6,8 +6,6 @@ permalink: /Steering Committee/
 ---
 
 <!-- ## **Keynote Speakers** -->
-#### Guanfeng Liu, Macquarie University, Australia
-
 #### Xuyun Zhang, Macquarie University, Australia
 
 #### Lianyong Qi, China University of Petroleum, China
