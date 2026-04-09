@@ -4,8 +4,8 @@ title: Organization
 permalink: /organization/
 ---
 ### **General Chairs**
-- Xiaolong Xu, Nanjing University of Information Science and Technology, China
 - Lina Yao, The University of New South Wales, Australia
+- Xiaolong Xu, Nanjing University of Information Science and Technology, China
 - Deepak Puthal, United Arab Emirates University, UAE
 
 ### **Program Committee Chairs**
