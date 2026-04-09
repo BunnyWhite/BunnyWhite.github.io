@@ -46,8 +46,7 @@ protection in data analytics, while adversarial machine learning is developed to
 <div style="text-align: justify">  The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. </div>
 
 **Submission Site:** 
-[https://cmt3.research.microsoft.com/ADMA2026]
-(https://cmt3.research.microsoft.com/ADMA2026)
+[https://cmt3.research.microsoft.com/ADMA2026](https://cmt3.research.microsoft.com/ADMA2026)
 <!-- - Step 1: Login and enter ADMA conference in EasyChair. Website: [https://easychair.org/conferences/?conf=ADMA2023](https://easychair.org/conferences/?conf=ADMA2023)
 - Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "Special Session: Private, Secure, and Trust Data Analytics" to continue.
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form. -->
