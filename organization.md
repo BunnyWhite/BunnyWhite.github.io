@@ -6,12 +6,13 @@ permalink: /organization/
 ### **General Chairs**
 - Lina Yao, The University of New South Wales, Australia
 - Xiaolong Xu, Nanjing University of Information Science and Technology, China
+- Bowen Liu, Hong Kong University of Science and Technology, Hong Kong, China
 - Deepak Puthal, United Arab Emirates University, UAE
 
 ### **Program Committee Chairs**
 - Haolong Xiang, Nanjing University of Science and Technology, China
 - Pengfei Ding, Macquarie University, Australia
-- Hao Miao, The Hong Kong Polytechnic University, Hong Kong
+- Hao Miao, The Hong Kong Polytechnic University, Hong Kong, China
 
 <!-- ### **General Chairs**
 - Amin Beheshti, Macquarie University, Australia
@@ -89,14 +90,14 @@ permalink: /organization/
 - Mingzhong Wang, University of the Sunshine Coast, Australia
 - Hao tian, Nanjing University, China
 - Dawei Zhu, Southeast University, China
-- Xinyang Huang, Hong Kong University of Science and Technology, Hong Kong
+- Xinyang Huang, Hong Kong University of Science and Technology, Hong Kong, China
 - Mohammed EI-Abd, American University of Kuwait, KW
 - Nathan Clarke, University of Plymouth, UK
 - Saeid Hosseini, Sohar University, Oman
 - Shunmei Meng, Nanjing University of Science and Technology, China
 - Silvio Barra, University of Salerno, Italy
 - Weizhi Meng, Technical University of Denmark, Denmark
-- Wenjuan Li, Hong Kong Polytechnic University, Hong Kong
+- Wenjuan Li, Hong Kong Polytechnic University, Hong Kong, China
 - Wenmin Lin, Hangzhou Normal University, China
 - Xiaochun Cheng, Middlesex University, U.K.
 - Kun Yi, State Information Center, China
@@ -107,5 +108,5 @@ permalink: /organization/
 - Lei Shi, Communication University of China, China
 - Wenwen Gong, Tsinghua University, China
 - Yuwen Liu, China University of Petroleum (East China), China
-- Linkai Song, Hong Kong University of Science and Technology, Hong Kong
+- Linkai Song, Hong Kong University of Science and Technology, Hong Kong, China
 - Yuanning Cui, Nanjing University of Information Science and Technology, China
